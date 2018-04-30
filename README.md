@@ -1,1 +1,3 @@
 # hello-world
+
+I can write text! Now I need to learn how to write code...
